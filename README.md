@@ -1,1 +1,1 @@
-# fnp
+# fnp.app
